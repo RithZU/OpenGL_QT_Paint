@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Icons">
+         <file>Icons/circle.png</file>
+         <file>Icons/exit.png</file>
+         <file>Icons/Line.png</file>
+         <file>Icons/paint.png</file>
+         <file>Icons/rec.png</file>
+         <file>Icons/triangle.png</file>
+         <file>Icons/clear.png</file>
+
+
+
+    </qresource>
+</RCC>
+
+
+
